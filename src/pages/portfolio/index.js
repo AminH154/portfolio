@@ -18,7 +18,7 @@ export const Portfolio = () => {
             <h1 className="display-4 mb-4">Mes Projets </h1>{" "}
             
             <hr className="t_border my-4 ml-0 text-left" />
-            <a href="/CV_jihedB_vf.pdf" download class="download-btn">
+            <a href="cv (1).pdf" download class="download-btn">
               📄 Télécharger mon CV
             </a>
           </Col>
